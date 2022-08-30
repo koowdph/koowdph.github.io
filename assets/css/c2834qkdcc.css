@@ -47,11 +47,9 @@
     font-size:10em;
 }
 
-/* .btn-dark{
-    background-color:white;
-    border: 2px solid #37c4c4!important;
-    color:#333333;
-} */
+.text-dark{ 
+    color:#333333!important;
+}
  
 .flow-left{
     position:absolute;
