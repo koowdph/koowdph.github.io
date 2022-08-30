@@ -4,6 +4,12 @@
     background-size: cover; 
     box-shadow: 0 0 5px #1b1b1b;
 }
+.form-head{
+    background: linear-gradient(#45f5f5,#00ccf0);
+    background-image: url('../../img/bg.jpg'); 
+    /* background-size: cover;  */
+    box-shadow: 0 0 5px #1b1b1b;
+}
 .hidden{display:none!important;}
 
 .border-1{
