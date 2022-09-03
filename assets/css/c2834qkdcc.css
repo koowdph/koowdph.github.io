@@ -16,9 +16,10 @@
     background-repeat: no-repeat;
 }
 .form-head{
-    background: linear-gradient(#45f5f5,#00ccf0);
-    background-image: url('../../img/bg.jpg'); 
+    /* background: linear-gradient(#45f5f5,#00ccf0); */
+    /* background-image: url('../../img/bg.jpg');  */
     /* background-size: cover;  */
+    background-color: #fff;
     box-shadow: 0 0 5px #acacac;
 }
 .hidden{display:none!important;}
@@ -53,6 +54,13 @@
 
 .f-8x{
     font-size:8em;
+    background-size: 100%;   
+    background-repeat: no-repeat; 
+    background-attachment: fixed!important;
+    background-image: url('../../img/bg_bg.svg'); 
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+   
 }
 .f-10x{
     font-size:10em;
