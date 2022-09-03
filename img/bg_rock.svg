@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="265.42" height="254.04" viewBox="0 0 265.42 254.04">
+  <defs>
+    <radialGradient id="radial-gradient" cx="511.09" cy="159.47" r="84.59" gradientTransform="matrix(0, -1, -0.93, 0, 280.25, 638.11)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003cef"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="Áåçûìÿííûé_ãðàäèåíò_36" data-name="Áåçûìÿííûé ãðàäèåíò 36" x1="3673.98" y1="-231.49" x2="3673.98" y2="-247.32" gradientTransform="matrix(0.98, 0.21, -0.21, 0.98, -3500.02, -419.86)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#9579a7"/>
+    </linearGradient>
+    <linearGradient id="Áåçûìÿííûé_ãðàäèåíò_36-2" x1="3657.58" y1="-233.87" x2="3657.58" y2="-262.85" xlink:href="#Áåçûìÿííûé_ãðàäèåíò_36"/>
+  </defs>
+  <title>bg</title>
+  <g style="isolation: isolate">
+    <g id="space_background" data-name="space background">
+      <g>
+        <ellipse cx="132.71" cy="127.02" rx="78.26" ry="84.59" transform="translate(0.35 254.41) rotate(-87.65)" style="mix-blend-mode: screen;fill: url(#radial-gradient)"/>
+        <polygon points="126.68 139.1 121.53 114.94 128.61 109.85 155.33 116.14 155.57 132.12 135.63 143.51 126.68 139.1" style="fill: #0059ff;fill-rule: evenodd"/>
+        <polygon points="126.68 125.33 126.68 139.1 135.63 143.51 155.57 132.12 126.68 125.33" style="fill-rule: evenodd;mix-blend-mode: multiply;fill: url(#Áåçûìÿííûé_ãðàäèåíò_36)"/>
+        <polygon points="135.63 143.51 138.75 137.12 155.33 116.14 155.57 132.12 135.63 143.51" style="fill: #00c5ff;fill-rule: evenodd;opacity: 0.55"/>
+        <polygon points="135.63 143.51 138.75 137.12 129.32 132.54 126.68 139.1 135.63 143.51" style="fill: #12908b;fill-rule: evenodd;mix-blend-mode: multiply"/>
+        <polygon points="129.32 132.54 128.61 109.85 121.53 114.94 126.68 139.1 129.32 132.54" style="fill-rule: evenodd;mix-blend-mode: multiply;fill: url(#Áåçûìÿííûé_ãðàäèåíò_36-2)"/>
+        <polygon points="121.53 114.94 126.68 125.33 155.57 132.12 155.33 116.14 128.61 109.85 121.53 114.94" style="fill: #5cf4ff;fill-rule: evenodd;opacity: 0.75"/>
+        <polygon points="146.22 130.88 144 134.31 146.62 134.88 149.9 131.69 146.22 130.88" style="fill: #fff;fill-rule: evenodd"/>
+        <polygon points="126.68 125.33 126.68 139.1 121.53 114.94 126.68 125.33" style="fill: #5cf4ff;fill-rule: evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

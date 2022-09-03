@@ -1,14 +1,25 @@
 .page-header{
     background: linear-gradient(#45f5f5,#00ccf0);
-    background-image: url('../../img/bg.jpg'); 
-    background-size: cover; 
-    box-shadow: 0 0 5px #1b1b1b;
+    background-image: url('../../img/bg_bg.svg'); 
+    background-size: 100%;  
+    padding:0;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 5px #acacac;
+    background-attachment: fixed;
+}
+.main-content{
+    background: linear-gradient(#45f5f5,#00ccf0);
+    background-image: url('../../img/a_land.svg'); 
+    /* background-size: cover;   */
+    background-position: bottom;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 .form-head{
     background: linear-gradient(#45f5f5,#00ccf0);
     background-image: url('../../img/bg.jpg'); 
     /* background-size: cover;  */
-    box-shadow: 0 0 5px #1b1b1b;
+    box-shadow: 0 0 5px #acacac;
 }
 .hidden{display:none!important;}
 
