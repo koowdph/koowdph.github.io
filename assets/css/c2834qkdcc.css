@@ -35,12 +35,12 @@
 
 .f-8x{
     font-size:8em;
-    background-size: 100%;   
+    /* background-size: 100%;   
     background-repeat: no-repeat; 
     background-attachment: fixed!important;
     background-image: url('../../img/bg_bg.svg'); 
         -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        -webkit-text-fill-color: transparent; */
    
 }
 .f-10x{
