@@ -35,13 +35,19 @@
 
 .f-8x{
     font-size:8em;
-    background-size: 100%;   
+    /* background-size: 100%;   
     background-repeat: no-repeat; 
     background-attachment: fixed!important;
     background-image: url('../../img/bg_bg.svg'); 
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
-   
+    */
+}
+.port-images{
+    -webkit-filter: saturate(0);
+}
+.port-images:hover{
+    -webkit-filter: saturate(1);
 }
 .f-10x{
     font-size:10em;
